@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which of the following is a digital device?",
+    "qid": 1,
+    "option_a": "Microphone",
+    "option_b": "Light Switch",
+    "option_c": "Resistance",
+    "option_d": "Fan Regulator",
+    "correct_option": "b"
+  },
+  {
+    "question": "A binary digit is called as",
+    "qid": 2,
+    "option_a": "Nibble",
+    "option_b": "Byte",
+    "option_c": "Bit",
+    "option_d": "Character",
+    "correct_option": "c"
+  },
+  {
+    "question": "A one bit multiplier can be accomplished using which type of gate?",
+    "qid": 3,
+    "option_a": "NOT",
+    "option_b": "OR",
+    "option_c": "AND",
+    "option_d": "XOR",
+    "correct_option": "c"
+  },
+  {
+    "question": "If the input waveform A is applied to the AND gate shown, which of the given options will represent the output waveform?  <br> <img src = 'images/Exp6-q4.png'>",
+    "qid": 4,
+    "option_a": "<img src = 'images/Exp6-q4a.png'>",
+    "option_b": "<img src = 'images/Exp6-q4b.png'>",
+    "option_c": "<img src = 'images/Exp6-q4c.png'>",
+    "option_d": "None of above",
+    "correct_option": "b"
+  },
+  {
+    "question": "A washing machine dryer dries the clothes only if the timer is set above zero and the machine door is closed. The equivalent Boolean expression can be best represented by which of the following gates?",
+    "qid": 5,
+    "option_a": "NOT",
+    "option_b": "AND",
+    "option_c": "OR",
+    "option_d": "XOR",
+    "correct_option": "b"
+  }
+]
