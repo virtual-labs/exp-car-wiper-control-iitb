@@ -1,1 +1,1 @@
-## Experiment name
+## Basics of AND gate and its application in car wiper control

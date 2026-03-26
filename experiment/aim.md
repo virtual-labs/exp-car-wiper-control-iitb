@@ -1,1 +1,2 @@
-### Aim of the experiment
+The aim of this experiment is to apply basic AND gate logic to control the on/off action of car wiper. 
+The user will be able to drag and drop the two-input AND gate on the blank canvas and make input-output connections and verify the truth table.
