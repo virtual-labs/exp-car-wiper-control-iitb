@@ -1,0 +1,47 @@
+[
+  {
+    "question": "The unique output of an AND gate is a __________ output only when all inputs are HIGH",
+    "qid": 1,
+    "option_a": "Low",
+    "option_b": "High",
+    "option_c": "Tristate",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "Complete each expression: (i) A. 1 = ____________ (ii) A. 0 = __________ (iii) A. A’ = __________ (iv) A.A = _________",
+    "qid": 2,
+    "option_a": "A,A,A,1",
+    "option_b": "1,0,1,A",
+    "option_c": "A,0,0,A",
+    "option_d": "1,A,0,A",
+    "correct_option": "c"
+  },
+  {
+    "question": "Suppose that you have an unknown two-input gate that is either an OR gate or an AND gate. What combination of input levels should you apply to the gate's inputs to determine which type of gate it is?  <br> <img src = 'images/Exp6-1.4.png'>",
+    "qid": 3,
+    "option_a": "0,0",
+    "option_b": "1,0",
+    "option_c": "0,1",
+    "option_d": "Either B or C",
+    "correct_option": "d"
+  },
+  {
+    "question": "No matter how many inputs it has, an AND input gate will produce a HIGH output for only one combination of input levels.",
+    "qid": 4,
+    "option_a": "True",
+    "option_b": "High",
+    "option_c": "Cannot be said",
+    "option_d": "None of these",
+    "correct_option": "a"
+  },
+  {
+    "question": "If both the inputs of an AND gate are shorted together and tied to HIGH, the output of the gate is:",
+    "qid": 5,
+    "option_a": "Low",
+    "option_b": "High",
+    "option_c": "Tristate",
+    "option_d": "None of these",
+    "correct_option": "b"
+  }
+]
